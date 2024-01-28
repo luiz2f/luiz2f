@@ -10,6 +10,7 @@
 
 [<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40" alt="supabase logo"/>](https://supabase.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>](https://www.figma.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="adobe photoshop logo"/>](https://www.adobe.com/products/photoshop.html) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>](https://github.com/)
 
+### <samp>&gt; My latest projects
 
 
 <!--
