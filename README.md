@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm Luiz 👋
 - 🎓 Graduated in Accounting
-- 💻 Aspiring Front-end Developer
+- 💻 Front-end Developer
 - 👩‍💻 Code Enthusiast
 
 ### <samp>&gt; Languages and Tools
