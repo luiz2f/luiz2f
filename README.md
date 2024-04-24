@@ -9,7 +9,7 @@
 
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" alt="Javascript logo" height="40">](https://www.javascript.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5 logo" height="40">](https://developer.mozilla.org/en-US/docs/Glossary/HTML) [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" alt="CSS3 logo" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) <img src="https://i.imgur.com/6hboN8U.png" alt="open curly brace" height="40"> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind logo" height="40">](https://tailwindcss.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind logo" width="40">](https://tailwindcss.com/)
 [<img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled components logo" height="40">](https://styled-components.com/)
 
 [<img src="https://www.svgrepo.com/show/353735/firebase.svg" height="40" alt="firebase logo"/>](https://firebase.google.com/)
