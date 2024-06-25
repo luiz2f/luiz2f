@@ -12,6 +12,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind logo" width="40">](https://tailwindcss.com/)
 [<img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled components logo" height="40">](https://styled-components.com/)
 
+[<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" height="40" alt="nestJs logo"/>](https://nestjs.com/)
 [<img src="https://www.svgrepo.com/show/353735/firebase.svg" height="40" alt="firebase logo"/>](https://firebase.google.com/)
 [<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40" alt="supabase logo"/>](https://supabase.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>](https://www.figma.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="adobe photoshop logo"/>](https://www.adobe.com/products/photoshop.html) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>](https://github.com/)
 
