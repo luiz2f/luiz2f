@@ -6,15 +6,15 @@
 
 ### Languages and Tools
 #### Languages
-[<img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" alt="TypeScript logo" height="40">](https://www.typescriptlang.org/)
+[<img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript logo" height="40">](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" alt="Javascript logo" height="40">](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5 logo" height="40">](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" alt="CSS3 logo" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 
 #### Frameworks & Libraries
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="40"/>](https://react.dev/)
-[<img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Next.js Logo" height="40"/>](https://nextjs.org/)
-[<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" height="40" alt="NestJs Logo"/>](https://nestjs.com/)
+[<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js Logo" height="40"/>](https://nextjs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="40" alt="NestJs Logo"/>](https://nestjs.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="React Redux Logo" />](https://react-redux.js.org/)
 [<img src="https://i.imgur.com/cVHyluI.png" alt="React Query Logo" width="40">](https://tanstack.com/query/latest)
 [<img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React Router logo" width="40">](https://reactrouter.com/en/main)
